@@ -1,6 +1,9 @@
-/* This theme is based NotAnotherAnimeTheme */
 //META{"name":"Isla","description":"Isla theme from plastic memories","version":"1.0","author":"Hazuki#3788"}*//
+
+/* This theme is based NotAnotherAnimeTheme */
 @import url(https://8xs4qxklp8.execute-api.us-east-2.amazonaws.com/release/gorawgit?giturl=/puckzxz/NotAnotherAnimeTheme/master/css/scsl.css);
+
+/* META CODE must placed at first line */
 
 :root {
   /* 背景の設定 */
