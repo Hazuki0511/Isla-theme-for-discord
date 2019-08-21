@@ -1,1 +1,24 @@
 //META{"name":"Isla","description":"Isla theme from plastic memories","version":"1.0","author":"Hazuki#3788"}*//
+@import url(https://8xs4qxklp8.execute-api.us-east-2.amazonaws.com/release/gorawgit?giturl=/puckzxz/NotAnotherAnimeTheme/master/css/scsl.css);
+
+:root {
+  --background-image: url(https://i.imgur.com/j1Z6HVc.jpg);
+  --friends-icon: url(https://i.imgur.com/63g6Em8.jpg);
+  --friends-icon-position: center center;
+  --friends-icon-zoom: 100%;
+  --main-color: rgb(67, 181, 129);
+  --main-transparency: rgba(0, 0, 0, 0.8);
+
+  --unread-server-animation: rainbow;
+  --hover-list-bg-color: rgba(255, 255, 255, 0.15);
+  --border-lines-color: hsla(0, 0%, 100%, 0.1);
+  --scroll-bar-color: rgba(255, 255, 255, 0.15);
+
+  --font-size: 16px;
+  --selected-text-voice-color: #f6f6f7;
+  --text-hover-color: #b9bbbe;
+  --voice-hover-color: #f6f6f7;
+  --unread-text-color: #dcddde;
+
+  --options-transparency: transparent;
+}
