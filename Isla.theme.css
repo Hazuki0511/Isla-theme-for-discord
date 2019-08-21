@@ -1,24 +1,34 @@
+/* This theme is based NotAnotherAnimeTheme */
 //META{"name":"Isla","description":"Isla theme from plastic memories","version":"1.0","author":"Hazuki#3788"}*//
-@import url(https://raw.githubusercontent.com/Hazuki0511/Isla-theme-for-discord/master/Isla/Import.css);
+@import url(https://8xs4qxklp8.execute-api.us-east-2.amazonaws.com/release/gorawgit?giturl=/puckzxz/NotAnotherAnimeTheme/master/css/scsl.css);
 
 :root {
+  /* 背景の設定 */
   --background-image: url(https://raw.githubusercontent.com/Hazuki0511/Isla-theme-for-discord/master/Isla/background.jpg);
+  /* フレンドリストアイコンの設定 */
   --friends-icon: url(https://raw.githubusercontent.com/Hazuki0511/Isla-theme-for-discord/master/Isla/friend-list.jpg);
+  /* フレンドリストアイコンの場所の設定 */
   --friends-icon-position: center center;
+  /* フレンドリストアイコンの拡大率の設定 */
   --friends-icon-zoom: 100%;
-  --main-color: rgb(67, 181, 129);
-  --main-transparency: rgba(0, 0, 0, 0.8);
+  /* 色の設定 */
+  --main-color: rgb(200, 65, 130);
+  /* 透明度の設定 */
+  --main-transparency: rgba(0, 0, 0, 0.5);
 
   --unread-server-animation: rainbow;
+  /* いろいろな色の設定 */
   --hover-list-bg-color: rgba(255, 255, 255, 0.15);
   --border-lines-color: hsla(0, 0%, 100%, 0.1);
   --scroll-bar-color: rgba(255, 255, 255, 0.15);
 
+  /* フォントの大きさの設定 */
   --font-size: 16px;
-  --selected-text-voice-color: #f6f6f7;
-  --text-hover-color: #b9bbbe;
-  --voice-hover-color: #f6f6f7;
-  --unread-text-color: #dcddde;
+  /* 各種テキストの色の設定 */
+  --selected-text-voice-color: #ffffff;
+  --text-hover-color: #ffffff;
+  --voice-hover-color: #ffffff;
+  --unread-text-color: #ffffff;
 
   --options-transparency: transparent;
 }
