@@ -4,34 +4,29 @@
 @import url(https://8xs4qxklp8.execute-api.us-east-2.amazonaws.com/release/gorawgit?giturl=/puckzxz/NotAnotherAnimeTheme/master/css/scsl.css);
 
 /* META CODE must be placed at first line */
-
 :root {
-  /* 背景の設定 */
+  /* Background */
   --background-image: url(https://raw.githubusercontent.com/Hazuki0511/Isla-theme-for-discord/master/Isla/background.jpg);
-  /* フレンドリストアイコンの設定 */
+  /* Friend list icon */
   --friends-icon: url(https://raw.githubusercontent.com/Hazuki0511/Isla-theme-for-discord/master/Isla/friend-list.jpg);
-  /* フレンドリストアイコンの場所の設定 */
   --friends-icon-position: center center;
-  /* フレンドリストアイコンの拡大率の設定 */
   --friends-icon-zoom: 100%;
-  /* 色の設定 */
+  /* main color */
   --main-color: rgb(200, 65, 130);
-  /* 透明度の設定 */
+  /* main transparency */
   --main-transparency: rgba(0, 0, 0, 0.5);
-
+  /* animation */
   --unread-server-animation: rainbow;
-  /* いろいろな色の設定 */
+  /* other color */
   --hover-list-bg-color: rgba(255, 255, 255, 0.15);
   --border-lines-color: hsla(0, 0%, 100%, 0.1);
   --scroll-bar-color: rgba(255, 255, 255, 0.15);
-
-  /* フォントの大きさの設定 */
-  --font-size: 16px;
-  /* 各種テキストの色の設定 */
   --selected-text-voice-color: #ffffff;
   --text-hover-color: #ffffff;
   --voice-hover-color: #ffffff;
   --unread-text-color: #ffffff;
-
+  /* font size */
+  --font-size: 16px;
+  /* hoge */
   --options-transparency: transparent;
 }
