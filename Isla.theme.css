@@ -9,8 +9,10 @@
 @import url("https://fonts.googleapis.com/css?family=Oxygen");
 
 :root {
-  /* background img */
+  /* background image */
   --bgImage: url("https://raw.githubusercontent.com/Hazuki0511/Isla-theme-for-discord/master/Isla/background.jpg");
+  /* home button image */
+  --HomeButtonImg: url("https://raw.githubusercontent.com/Hazuki0511/Isla-theme-for-discord/master/Isla/home.png");
   /* brightness */
   --brightness: 0.5;
   /* font */
