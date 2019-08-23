@@ -1,4 +1,4 @@
-//META{"name":"Isla","description":"Isla theme from Plastic memories.","author":"Hazuki#3788","version":"1.0"}*//
+//META{"name":"Isla","description":"Isla theme from plastic memories.","author":"Hazuki#3788","version":"1.0"}*//
 /* META code must be placed at first line */
 
 /* import css file */
@@ -12,7 +12,7 @@
   /* background img */
   --bgImage: url("https://raw.githubusercontent.com/Hazuki0511/Isla-theme-for-discord/master/Isla/background.jpg");
   /* brightness */
-  --brightness: 0.4;
+  --brightness: 0.5;
   /* font */
   --customFont: "Oxygen";
   /* main color */
