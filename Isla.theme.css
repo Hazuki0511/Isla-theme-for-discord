@@ -2,6 +2,7 @@
 /* META code must be placed at first line */
 
 /* import css file */
+/* Core css files for discord theme */
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css);
 @import url("https://codedotspectra.github.io/themes/neutron/importCSS/xcore.css");
 @import url("https://codedotspectra.github.io/themes/mini-themes/compactMemberList.css");
