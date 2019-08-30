@@ -1,6 +1,12 @@
 //META{"name":"Isla","description":"Isla theme from plastic memories","author":"Hazuki#3788","version":"1.4 - BETA"}*//
 
+<<<<<<< HEAD
 /* import core css by spectra */
+=======
+/* import css file */
+/* Core css files for discord theme */
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css);
+>>>>>>> 4cb9fd208a6ad3970779828fd3049290b3a250a3
 @import url("https://codedotspectra.github.io/themes/neutron/importCSS/xcore.css");
 /* import font from google fonts */
 @import url("https://fonts.googleapis.com/css?family=Comfortaa");
