@@ -28,7 +28,7 @@
   /* set wordmark display times */
   background-repeat: no-repeat;
   /* set wordmark size */
-  background-size: contain;
+  background-size: center;
   width: 100px;
   height: 16px;
   padding-left: 15px;
