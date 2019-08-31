@@ -19,3 +19,20 @@
   --PrimaryColorRGBA: rgba(255, 128, 128, 0.15);
   --PrimaryColor02: #00b8cc;
 }
+
+.wordmark-2iDDfm svg {
+  /* set wordmark image */
+  background-image: url("");
+  /* set wordmark position */
+  background-position: center;
+  /* set wordmark display times */
+  background-repeat: no-repeat;
+  /* set wordmark size */
+  background-size: contain;
+  width: 100px;
+  height: 16px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: 0;
+  display: block;
+}
