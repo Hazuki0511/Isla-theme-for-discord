@@ -8,3 +8,6 @@ Published theme
 
 #### Version 1.5
 Improved code and image
+
+#### Version 1.6
+Improved wordmark
